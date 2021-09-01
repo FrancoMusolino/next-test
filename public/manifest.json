@@ -1,0 +1,20 @@
+{
+    "name": "Las Nieves Next",
+    "short_name": "Las Nieves",
+    "description": "Test página Las Nieves con Next.js",
+    "background_color": "#33A5B3",
+    "theme_color": "#111111",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./",
+    "scope": "./",
+    "lang": "es",
+    "icons": [
+        {
+            "src": "./img/lasnieves.png",
+            "type": "image/png",
+            "sizes": "400x400",
+            "purpose": "any maskable"
+        }
+    ]
+}
