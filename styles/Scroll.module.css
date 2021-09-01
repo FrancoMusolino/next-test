@@ -1,0 +1,27 @@
+.scrolltop{
+    position: fixed;
+    right: 1rem;
+    bottom: -20%;
+    padding: .3rem;
+    background: rgba(6,156,84,.5);
+    border-radius: .4rem;
+    z-index: 10;
+    transition: .4s;
+    visibility: hidden;
+    cursor: pointer;
+    bottom: -20%;
+  }
+  
+  .scrolltop:hover{
+    background-color: #048654;
+  }
+  
+  .scrolltop__icon{
+    font-size: 1.8rem;
+    color: #FBFEFD;
+  }
+
+  .showscroll{
+    visibility: visible;
+    bottom: 1.5rem;
+  }
