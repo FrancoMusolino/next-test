@@ -1,7 +1,6 @@
 import React from 'react'
 
 const User = ({ users }) => {
-    console.log(users)
 
     return (
         <div>

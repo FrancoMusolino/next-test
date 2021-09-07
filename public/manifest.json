@@ -6,15 +6,14 @@
     "theme_color": "#111111",
     "orientation": "portrait",
     "display": "standalone",
-    "start_url": "./",
+    "start_url": "./?utm_source=web_app_manifest",
     "scope": "./",
     "lang": "es",
     "icons": [
         {
             "src": "./img/lasnieves.png",
             "type": "image/png",
-            "sizes": "400x400",
-            "purpose": "any maskable"
+            "sizes": "400x400"
         }
     ]
 }
